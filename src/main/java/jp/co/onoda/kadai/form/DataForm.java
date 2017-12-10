@@ -1,5 +1,5 @@
 package jp.co.onoda.kadai.form;
-
+//DATA
 public class DataForm {
 	private String eventName;
 
